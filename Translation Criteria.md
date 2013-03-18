@@ -3,11 +3,13 @@
 2. 保留原文中一切标记如<span>，只翻译文字部分。
 3. 必要时在括号中引用原文术语，如"方法(methods)"。
 4. 隐藏英语原文，以便日后其他译者校正。  
+5. 字典保持按字母顺序排列。
 
 
 ###字典：
 calling: 调用
 introduction: 介绍
+look up: 检索
 object, objects: 对象
 primer: 初学者
 primitives: 原语

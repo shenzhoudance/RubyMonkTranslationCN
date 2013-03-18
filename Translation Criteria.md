@@ -15,3 +15,4 @@ response: 响应
 string, strings: 字符串
 text: 文本
 literal form: 文字形式
+instance: 实例

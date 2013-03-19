@@ -20,3 +20,4 @@ Syntactic Sugar: 语法糖
 text: 文本
 literal form: 文字形式
 instance: 实例
+ways: 方式

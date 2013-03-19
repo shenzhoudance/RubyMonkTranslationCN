@@ -9,8 +9,10 @@
 
 ###字典：
 calling: 调用
+instance: 实例
 introduction: 介绍
-look up: 检索
+literal form: 文字形式
+look up: 查询
 object, objects: 对象
 primer: 初学者
 primitives: 原语
@@ -18,6 +20,4 @@ response: 响应
 string, strings: 字符串
 Syntactic Sugar: 语法糖
 text: 文本
-literal form: 文字形式
-instance: 实例
 ways: 方式

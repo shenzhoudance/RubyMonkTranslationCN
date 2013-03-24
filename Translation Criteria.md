@@ -11,6 +11,7 @@
 calling: 调用
 instance: 实例
 introduction: 介绍
+intuitiveness: 直观性
 literal form: 文字形式
 look up: 查询
 object, objects: 对象
